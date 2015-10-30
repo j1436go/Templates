@@ -1,0 +1,14 @@
+{{define "func"}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	{{Camelize "SnakeCase"}}
+	<h2>yo</h2>
+</body>
+</html>
+{{end}}
+

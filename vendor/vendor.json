@@ -1,0 +1,11 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "bitbucket.org/j1436go/inflect",
+			"revision": "8961c3750a47",
+			"revisionTime": "2013-08-29T20:07:46+09:00"
+		}
+	]
+}
